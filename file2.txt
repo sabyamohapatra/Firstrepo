@@ -1,2 +1,5 @@
-hello i am developer 1
+
+hello I am developer 2
+
+
 merge conflict tada
